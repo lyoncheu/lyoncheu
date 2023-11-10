@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is **Lyon** Cheu
+
+Nice to be here and learn about Git, which I can then use to support my learning of quantum computing
+
+I have no idea what I am doing, and I look forward to learning all the things I don't know!
+
 <!--
 **lyoncheu/lyoncheu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
